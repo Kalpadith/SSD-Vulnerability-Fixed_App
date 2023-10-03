@@ -1,4 +1,4 @@
-# Language_Specific_Project
+# Customer Details Management Application
 
 Login Info:
 
